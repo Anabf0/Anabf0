@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu perfil! :)
 
+Sou uma programadora ingressante na área, curso Engenharia de Computação e atualmente busco aperfeiçoar meus conhecimentos em Phyton e em redes neurais.
+
  <div>
    <a href="https://github.com/Anabf0">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anabf0&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
